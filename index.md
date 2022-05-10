@@ -2,10 +2,6 @@
 
 ### Online seminars
 
-We kindly invite you to the first of our fortnightly seminars that will be:
-
-- 10 May 2022 1 PM CEST: **Tommaso Pivetta**, _Gravity measurements as a useful tool to model Karst hydrology_
-
 The Zoom link to the seminar: [https://cnrs.zoom.us/j/93368407411?pwd=d1ozNEd5dTVVV1J6QTV4YmhpQkVvdz09]
 
 The next seminars we have in program:
@@ -22,6 +18,10 @@ Time zone: CEST (Central European Summer Time) is UTC+2, which is 2h ahead of UT
 The seminars will be recorded, except for special demand of the presenter, and will be available  off-line.
 
 Those interested to share their work and give a seminar, are kindly asked to contact Carla Braitenberg (berg@units.it)  or Severine Rosat (severine.rosat@unistra.fr). This invitation includes PhD and Master students, as well as PostDocs and senior scientists.
+
+### Past seminars
+
+- 10 May 2022 1 PM CEST: **Tommaso Pivetta**, _Gravity measurements as a useful tool to model Karst hydrology_
 
 The Topics that are relevant to the Earth Tides and Geodynamics Commission take into account geodynamic phenomena on different temporal and spatial scales. These geodynamic phenomena can be observed by modern instrumentation and monitoring systems, both terrestrial and space-borne. The seminars will be open for a wide range of scientific problems in geodynamics research. Interactions of geophysical fluids with Earth tides phenomena and observations are a specific focus and includes:
 
