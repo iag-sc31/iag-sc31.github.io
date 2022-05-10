@@ -23,6 +23,7 @@ Those interested to share their work and give a seminar, are kindly asked to con
 ### Past seminars
 
 > 10 May 2022 1 PM CEST: **Tommaso Pivetta**, _Gravity measurements as a useful tool to model Karst hydrology_
+[Download video of this seminar](https://seafile.unistra.fr/f/a99e85229cb5432aa25a/)
 
 The Topics that are relevant to the Earth Tides and Geodynamics Commission take into account geodynamic phenomena on different temporal and spatial scales. These geodynamic phenomena can be observed by modern instrumentation and monitoring systems, both terrestrial and space-borne. The seminars will be open for a wide range of scientific problems in geodynamics research. Interactions of geophysical fluids with Earth tides phenomena and observations are a specific focus and includes:
 
