@@ -20,10 +20,10 @@ The seminars will be recorded, except for special demand of the presenter, and w
 Those interested to share their work and give a seminar, are kindly asked to contact Carla Braitenberg (berg@units.it)  or Severine Rosat (severine.rosat@unistra.fr). This invitation includes PhD and Master students, as well as PostDocs and senior scientists.
 
 ### Past seminars
-
 > 10 May 2022 1 PM CEST: **Tommaso Pivetta**, _Gravity measurements as a useful tool to model Karst hydrology_
 [Download video of this seminar](https://seafile.unistra.fr/f/a99e85229cb5432aa25a/)
 
+### Topics
 The Topics that are relevant to the Earth Tides and Geodynamics Commission take into account geodynamic phenomena on different temporal and spatial scales. These geodynamic phenomena can be observed by modern instrumentation and monitoring systems, both terrestrial and space-borne. The seminars will be open for a wide range of scientific problems in geodynamics research. Interactions of geophysical fluids with Earth tides phenomena and observations are a specific focus and includes:
 
 - Tidal and non-tidal loading in space geodetic and subsurface observations
