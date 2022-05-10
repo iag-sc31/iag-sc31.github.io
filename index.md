@@ -1,5 +1,4 @@
-## International Association of Geodesy
-### Sub-Commission SC 3.1 Earth Tides and Geodynamics
+## Sub-Commission SC 3.1 Earth Tides and Geodynamics
 ### Online seminars
 ![Image](IAG.png)
 
