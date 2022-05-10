@@ -2,3 +2,4 @@ theme: jekyll-theme-slate
 title: SC 3.1 Earth Tides and Geodynamics
 description: Online seminars
 logo_url: https://iag-sc31.github.io/IAG.png
+baseurl: https://iag-sc31.github.io/
