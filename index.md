@@ -17,7 +17,7 @@ Time zone: CEST (Central European Summer Time) is UTC+2, which is 2h ahead of UT
 
 The seminars will be recorded, except for special demand of the presenter, and will be available  off-line.
 
-Those interested to share their work and give a seminar, are kindly asked to contact Carla Braitenberg (berg@units.it)  or Severine Rosat (severine.rosat@unistra.fr). This invitation includes PhD and Master students, as well as PostDocs and senior scientists.
+Those interested to share their work and give a seminar, are kindly asked to contact **Carla Braitenberg** (berg@units.it)  or **Severine Rosat** (severine.rosat@unistra.fr). This invitation includes PhD and Master students, as well as PostDocs and senior scientists.
 
 ### Past seminars
 > 10 May 2022 1 PM CEST: **Tommaso Pivetta**, _Gravity measurements as a useful tool to model Karst hydrology_
