@@ -1,7 +1,7 @@
 ## International Association of Geodesy
 ### Sub-Commission SC 3.1 Earth Tides and Geodynamics
 ### Online seminars
-![Image](https://www.iag-aig.org/)
+![Image](IAG.png)
 
 The Zoom link to the seminar: [Link to the seminar](https://cnrs.zoom.us/j/93368407411?pwd=d1ozNEd5dTVVV1J6QTV4YmhpQkVvdz09)
 
