@@ -1,4 +1,4 @@
-## Sub-Commission SC 3.1 Earth Tides and Geodynamics
+## Sub-Commission 3.1 Earth Tides and Geodynamics
 ### Online seminars
 ![Image](IAG.png)
 
