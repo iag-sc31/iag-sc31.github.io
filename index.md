@@ -42,5 +42,5 @@ The Topics that are relevant to the Earth Tides and Geodynamics Commission take 
 - Tides and geodynamics in planets
 
 Carla Braitenberg, University of Trieste
-Severine Rosat, University of Strasbourg and CNRS
+& Severine Rosat, University of Strasbourg and CNRS, 
 _Chair and co-chair of Sub-Commission SC 3.1 Earth Tides and Geodynamics, International Association of Geodesy (IAG)_
