@@ -2,7 +2,7 @@
 ### Sub-Commission SC 3.1 Earth Tides and Geodynamics
 ### Online seminars
 
-The Zoom link to the seminar: [https://cnrs.zoom.us/j/93368407411?pwd=d1ozNEd5dTVVV1J6QTV4YmhpQkVvdz09]zoom link
+The Zoom link to the seminar: [Link] https://cnrs.zoom.us/j/93368407411?pwd=d1ozNEd5dTVVV1J6QTV4YmhpQkVvdz09
 
 The next seminars we have in program:
 
