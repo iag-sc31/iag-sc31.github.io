@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Sub-Commission SC 3.1 Earth Tides and Geodynamics, International Association of Geodesy
 
-You can use the [editor on GitHub](https://github.com/iag-sc31/iag-sc31.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Online seminars
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We kindly invite you to the first of our fortnightly seminars that will be:
 
-### Markdown
+- 10 May 2022 1 PM CEST: **Tommaso Pivetta**, _Gravity measurements as a useful tool to model Karst hydrology_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Zoom link to the seminar: [Link] https://cnrs.zoom.us/j/93368407411?pwd=d1ozNEd5dTVVV1J6QTV4YmhpQkVvdz09
 
-```markdown
-Syntax highlighted code block
+The next seminars we have in program:
 
-# Header 1
-## Header 2
-### Header 3
+- 24 May 2022: visit EGU and Living Planet Symposium Earth Tides and Geodynamics related talks.
+- 7 June 2022, 1 PM CEST: **Alexandre Michel**, _GNSS inversion for surface loading_
+- 21 June 2022, 1 PM CEST: **Isabelle Panet**, _Pre-seismic signals in GRACE gravity solutions: application to the 2011 Tohoku and 2010 Maule earthquakes_
+- 05 July 2022, 1 PM CEST: **Anna Klos**, _Sensitivity of GPS technique for environmental loadings: implications for future estimates_
 
-- Bulleted
-- List
+The seminars will continue starting September 2022.
 
-1. Numbered
-2. List
+Time zone: CEST (Central European Summer Time) is UTC+2, which is 2h ahead of UTC (Coordinated Universal Time).
 
-**Bold** and _Italic_ and `Code` text
+The seminars will be recorded, except for special demand of the presenter, and will be available  off-line.
 
-[Link](url) and ![Image](src)
-```
+Those interested to share their work and give a seminar, are kindly asked to contact Carla Braitenberg (berg@units.it)  or Severine Rosat (severine.rosat@unistra.fr). This invitation includes PhD and Master students, as well as PostDocs and senior scientists.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+The Topics that are relevant to the Earth Tides and Geodynamics Commission take into account geodynamic phenomena on different temporal and spatial scales. These geodynamic phenomena can be observed by modern instrumentation and monitoring systems, both terrestrial and space-borne. The seminars will be open for a wide range of scientific problems in geodynamics research. Interactions of geophysical fluids with Earth tides phenomena and observations are a specific focus and includes:
 
-### Jekyll Themes
+- Tidal and non-tidal loading in space geodetic and subsurface observations
+- Permanent and dynamic effects of Earth tides on the geodetic reference system
+- Using tides and ocean tidal loading with modern geodesy to probe Earth structure
+- Variations in Earth rotation, gravity field and geocenter due to mass redistributions
+- Tidal forcing of plate movement
+- Subsurface fluid movement through geodetic and gravity observation
+- Fluid pressure changes due to Earth tides
+- Stress and deformation changes due to injected fluids
+- Earth tides, mass movements and deformation at volcanoes
+- Tidal effects on geodetic satellites as GOCE, GRACE, …
+- Innovations in instrumentation for gravity and deformation observation
+- Innovations in software, data analyses and prediction methods of loading and tides
+- Induced seismicity
+- Tides and geodynamics in planets
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iag-sc31/iag-sc31.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Carla Braitenberg, University of Trieste
+Severine Rosat, University of Strasbourg and CNRS
+_Chair and co-chair of Sub-Commission SC 3.1 Earth Tides and Geodynamics, International Association of Geodesy (IAG)_
