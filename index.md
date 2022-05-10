@@ -6,7 +6,7 @@ We kindly invite you to the first of our fortnightly seminars that will be:
 
 - 10 May 2022 1 PM CEST: **Tommaso Pivetta**, _Gravity measurements as a useful tool to model Karst hydrology_
 
-The Zoom link to the seminar: [Link] https://cnrs.zoom.us/j/93368407411?pwd=d1ozNEd5dTVVV1J6QTV4YmhpQkVvdz09
+The Zoom link to the seminar: [https://cnrs.zoom.us/j/93368407411?pwd=d1ozNEd5dTVVV1J6QTV4YmhpQkVvdz09]
 
 The next seminars we have in program:
 
