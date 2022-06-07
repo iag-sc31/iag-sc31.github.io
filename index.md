@@ -4,8 +4,6 @@ The Zoom link to the seminar: [Link to the seminar](https://cnrs.zoom.us/j/93368
 
 The next seminars we have in program:
 
-- 24 May 2022: visit EGU and Living Planet Symposium Earth Tides and Geodynamics related talks.
-- 7 June 2022, 1 PM CEST: **Alexandre Michel**, _GNSS inversion for surface loading_
 - 21 June 2022, 1 PM CEST: **Isabelle Panet**, _Pre-seismic signals in GRACE gravity solutions: application to the 2011 Tohoku and 2010 Maule earthquakes_
 - 05 July 2022, 1 PM CEST: **Anna Klos**, _Sensitivity of GPS technique for environmental loadings: implications for future estimates_
 
@@ -18,6 +16,9 @@ The seminars will be recorded, except for special demand of the presenter, and w
 Those interested to share their work and give a seminar, are kindly asked to contact **Carla Braitenberg** (berg@units.it)  or **Severine Rosat** (severine.rosat@unistra.fr). This invitation includes PhD and Master students, as well as PostDocs and senior scientists.
 
 ### Past seminars
+> 7 June 2022, 1 PM CEST: **Alexandre Michel**, _GNSS inversion for surface loading_
+[Download video of this seminar](https://seafile.unistra.fr/f/bb8a429bc00a4f21a464/)
+> 24 May 2022: EGU and Living Planet Symposium
 > 10 May 2022 1 PM CEST: **Tommaso Pivetta**, _Gravity measurements as a useful tool to model Karst hydrology_
 [Download video of this seminar](https://seafile.unistra.fr/f/a99e85229cb5432aa25a/)
 
