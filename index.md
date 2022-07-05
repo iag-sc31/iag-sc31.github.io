@@ -3,7 +3,7 @@
 The Zoom link to the seminar: [Link to the seminar](https://cnrs.zoom.us/j/93368407411?pwd=d1ozNEd5dTVVV1J6QTV4YmhpQkVvdz09)
 
 The next seminar we had in program is _cancelled_:
-- **CANCELLED** 05 July 2022, 1 PM CEST: **Anna Klos**, _Sensitivity of GPS technique for environmental loadings: implications for future estimates_
+- **POSTPONED** 05 July 2022, 1 PM CEST: **Anna Klos**, _Sensitivity of GPS technique for environmental loadings: implications for future estimates_
 
 The seminars will continue starting September 2022.
 
