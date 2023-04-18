@@ -1,7 +1,7 @@
 ## Sub-Commission 3.1 Earth Tides and Geodynamics
 ### Online seminars
 
-Online seminars are back in June 2023 !
+Online seminars are back in May 2023 !
 
 The Zoom link to the seminar: [Link to the seminar](https://cnrs.zoom.us/j/93368407411?pwd=d1ozNEd5dTVVV1J6QTV4YmhpQkVvdz09)
 
