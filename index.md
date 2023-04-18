@@ -1,11 +1,13 @@
 ## Sub-Commission 3.1 Earth Tides and Geodynamics
 ### Online seminars
+
+Online seminars are back in June 2023 !
+
 The Zoom link to the seminar: [Link to the seminar](https://cnrs.zoom.us/j/93368407411?pwd=d1ozNEd5dTVVV1J6QTV4YmhpQkVvdz09)
 
-The next seminar we had in program is _postponed_ to a date that will be announced later:
-- **POSTPONED** ~~05 July 2022, 1 PM CEST: **Anna Klos**, _Sensitivity of GPS technique for environmental loadings: implications for future estimates_~~
-
-The seminars will continue starting September 2022.
+The next seminars we have in program are:
+- 13 June 2023, 1 PM CEST: **Antonella Amoruso, Luca Crescentini**, _A few looks at the dynamics of Campi Flegrei and Vesuvio volcanoes, Italy, from DInSAR data_
+- 27 June 2023, 1 PM CEST: **Umberto Riccardi**, _Catching the time-variable gravity at Mt. Somma-Vesuvius volcano by means of discrete and continuous relative gravity measurements_ 
 
 Time zone: CEST (Central European Summer Time) is UTC+2, which is 2h ahead of UTC (Coordinated Universal Time).
 
