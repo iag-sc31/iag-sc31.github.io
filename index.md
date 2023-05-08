@@ -6,11 +6,12 @@ Online seminars are back in May 2023 !
 The Zoom link to the seminar: [Link to the seminar](https://cnrs.zoom.us/j/93368407411?pwd=d1ozNEd5dTVVV1J6QTV4YmhpQkVvdz09)
 
 The next seminars we have in program are:
-- 23 May 2023, 1 PM CEST: _to be defined_
-- 6 June 2023, 1 PM CEST: _to be defined_
-- 13 June 2023, 1 PM CEST: **Antonella Amoruso, Luca Crescentini**, _A few looks at the dynamics of Campi Flegrei and Vesuvio volcanoes, Italy, from DInSAR data_
-- 20 June 2023, 1 PM CEST: **Hugo Lecomte**, _GRACE and SLR, the gravity-field variations for new insights into the Earth's core_
-- 27 June 2023, 1 PM CEST: **Umberto Riccardi**, _Catching the time-variable gravity at Mt. Somma-Vesuvius volcano by means of discrete and continuous relative gravity measurements_ 
+- 23 May 2023, 1 PM CEST: **Jiangcun Zhou**, State Key Laboratory of Geodesy and Earth's Dynamics, Innovation Academy for Precision Measurement Science and
+Technology, Chinese Academy of Sciences, _Co/post-seismic deformation based on poroelastic theory_
+- 6 June 2023, 1 PM CEST: **Wei Feng**, School of Geospatial Engineering and Science, Sun Yat-sen University, China, _Separation of Earthquake and Hydrology Signals from GRACE Satellite Data via Independent Component Analysis: A Case Study in the Sumatra Region_
+- 13 June 2023, 1 PM CEST: **Antonella Amoruso, Luca Crescentini**, Department of Physics, University of Salerno, Italy, _A few looks at the dynamics of Campi Flegrei and Vesuvio volcanoes, Italy, from DInSAR data_
+- 20 June 2023, 1 PM CEST: **Hugo Lecomte**, Institut Terre et Environnement de Strasbourg, France, _GRACE and SLR, the gravity-field variations for new insights into the Earth's core_
+- 27 June 2023, 1 PM CEST: **Umberto Riccardi**, Dipartimento di Scienze della Terra, dell'Ambiente e delle Risorse (DiSTAR), Università "Federico II" di Napoli, Italy, _Catching the time-variable gravity at Mt. Somma-Vesuvius volcano by means of discrete and continuous relative gravity measurements_ 
 
 Time zone: CEST (Central European Summer Time) is UTC+2, which is 2h ahead of UTC (Coordinated Universal Time).
 
