@@ -3,7 +3,7 @@
 
 Online seminars are back in May 2023 !
 
-The Zoom link to the seminar: [Link to the seminar](https://cnrs.zoom.us/j/93368407411?pwd=d1ozNEd5dTVVV1J6QTV4YmhpQkVvdz09)
+The Zoom link to the seminar: [Link to the seminar](https://cnrs.zoom.us/j/96867898194?pwd=anNIZ043MlZuNzZYWEpGMUFsTVRtUT09)
 
 The next seminars we have in program are:
 - 23 May 2023, 1 PM CEST: **Jiangcun Zhou**, State Key Laboratory of Geodesy and Earth's Dynamics, Innovation Academy for Precision Measurement Science and
