@@ -6,8 +6,6 @@ Online seminars are back in May 2023 !
 The Zoom link to the seminar: [Link to the seminar](https://cnrs.zoom.us/j/96867898194?pwd=anNIZ043MlZuNzZYWEpGMUFsTVRtUT09)
 
 The next seminars we have in program are:
-- 23 May 2023, 1 PM CEST: **Jiangcun Zhou**, State Key Laboratory of Geodesy and Earth's Dynamics, Innovation Academy for Precision Measurement Science and
-Technology, Chinese Academy of Sciences, _Co/post-seismic deformation based on poroelastic theory_
 - 6 June 2023, 1 PM CEST: **Wei Feng**, School of Geospatial Engineering and Science, Sun Yat-sen University, China, _Separation of Earthquake and Hydrology Signals from GRACE Satellite Data via Independent Component Analysis: A Case Study in the Sumatra Region_
 - 13 June 2023, 1 PM CEST: **Antonella Amoruso, Luca Crescentini**, Department of Physics, University of Salerno, Italy, _A few looks at the dynamics of Campi Flegrei and Vesuvio volcanoes, Italy, from DInSAR data_
 - 20 June 2023, 1 PM CEST: **Hugo Lecomte**, Institut Terre et Environnement de Strasbourg, France, _GRACE and SLR, the gravity-field variations for new insights into the Earth's core_
@@ -19,7 +17,11 @@ The seminars will be recorded, except for special demand of the presenter, and w
 
 Those interested to share their work and give a seminar, are kindly asked to contact **Carla Braitenberg** (berg@units.it) or **Severine Rosat** (severine.rosat@unistra.fr). This invitation includes PhD and Master students, as well as PostDocs and senior scientists.
 
-### Past seminars
+### Past 2023 seminars
+> 23 May2023, 1 PM CEST: **Jiangcun Zhou**, State Key Laboratory of Geodesy and Earth's Dynamics, Innovation Academy for Precision Measurement Science and
+Technology, Chinese Academy of Sciences, _Co/post-seismic deformation based on poroelastic theory_ [Download video of this seminar](https://seafile.unistra.fr/f/6c82b6dbb2e1416dace8/)
+
+### 2022 seminars
 > 21 June 2022, 1 PM CEST: **Isabelle Panet**, _Pre-seismic signals in GRACE gravity solutions: application to the 2011 Tohoku and 2010 Maule earthquakes_
 [Download video of this seminar](https://seafile.unistra.fr/f/ccde5e8c46b4490a8135/)
 
