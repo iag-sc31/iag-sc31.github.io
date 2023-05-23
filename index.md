@@ -18,8 +18,8 @@ The seminars will be recorded, except for special demand of the presenter, and w
 Those interested to share their work and give a seminar, are kindly asked to contact **Carla Braitenberg** (berg@units.it) or **Severine Rosat** (severine.rosat@unistra.fr). This invitation includes PhD and Master students, as well as PostDocs and senior scientists.
 
 ### Past 2023 seminars
-> 23 May 2023, 1 PM CEST: **Jiangcun Zhou**, State Key Laboratory of Geodesy and Earth's Dynamics, Innovation Academy for Precision Measurement Science and
-Technology, Chinese Academy of Sciences, Co/post-seismic deformation based on poroelastic theory [Download video of this seminar](https://seafile.unistra.fr/f/6c82b6dbb2e1416dace8/)
+> 23 May 2023, 1 PM CEST: **Jiangcun Zhou**, (State Key Laboratory of Geodesy and Earth's Dynamics, Innovation Academy for Precision Measurement Science and
+Technology, Chinese Academy of Sciences), _Co/post-seismic deformation based on poroelastic theory_ [Download video of this seminar](https://seafile.unistra.fr/f/6c82b6dbb2e1416dace8/)
 
 ### 2022 seminars
 > 21 June 2022, 1 PM CEST: **Isabelle Panet**, _Pre-seismic signals in GRACE gravity solutions: application to the 2011 Tohoku and 2010 Maule earthquakes_
