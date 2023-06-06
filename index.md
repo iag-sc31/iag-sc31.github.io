@@ -18,6 +18,7 @@ Those interested to share their work and give a seminar, are kindly asked to con
 
 ### Past 2023 seminars
 > 6 June 2023, 1 PM CEST: **Wei Feng**, School of Geospatial Engineering and Science, Sun Yat-sen University, China, _Separation of Earthquake and Hydrology Signals from GRACE Satellite Data via Independent Component Analysis: A Case Study in the Sumatra Region_ [Download video of this seminar](https://seafile.unistra.fr/f/4666ede874e44a6bb98d/)
+
 > 23 May 2023, 1 PM CEST: **Jiangcun Zhou**, (State Key Laboratory of Geodesy and Earth's Dynamics, Innovation Academy for Precision Measurement Science and
 Technology, Chinese Academy of Sciences), _Co/post-seismic deformation based on poroelastic theory_ [Download video of this seminar](https://seafile.unistra.fr/f/11463e4d51be4d74a660/); [Download the presentation of this seminar](https://seafile.unistra.fr/f/7275380a1ce947c1b9e5/)
 
