@@ -22,7 +22,7 @@ Those interested to share their work and give a seminar, are kindly asked to con
 > 23 May 2023, 1 PM CEST: **Jiangcun Zhou**, (State Key Laboratory of Geodesy and Earth's Dynamics, Innovation Academy for Precision Measurement Science and
 Technology, Chinese Academy of Sciences), _Co/post-seismic deformation based on poroelastic theory_ [Download video of this seminar](https://seafile.unistra.fr/f/11463e4d51be4d74a660/); [Download the presentation of this seminar](https://seafile.unistra.fr/f/7275380a1ce947c1b9e5/)
 
-### [2022 seminars](iag-sc31.github.io/2022_seminars.md)
+### [2022 seminars](2022_seminars.md)
 
 ### Topics
 The Topics that are relevant to the Earth Tides and Geodynamics Commission take into account geodynamic phenomena on different temporal and spatial scales. These geodynamic phenomena can be observed by modern instrumentation and monitoring systems, both terrestrial and space-borne. The seminars will be open for a wide range of scientific problems in geodynamics research. Interactions of geophysical fluids with Earth tides phenomena and observations are a specific focus and includes:
