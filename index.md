@@ -5,7 +5,7 @@ Online seminars are back in May 2023 !
 
 The Zoom link to the seminar: [Link to the seminar](https://cnrs.zoom.us/j/96867898194?pwd=anNIZ043MlZuNzZYWEpGMUFsTVRtUT09)
 
-The next seminar we have in program are:
+The next seminar we have in program is:
 - 27 June 2023, 1 PM CEST: **Umberto Riccardi**, Dipartimento di Scienze della Terra, dell'Ambiente e delle Risorse (DiSTAR), Università "Federico II" di Napoli, Italy, _Catching the time-variable gravity at Mt. Somma-Vesuvius volcano by means of discrete and continuous relative gravity measurements_ 
 
 Time zone: CEST (Central European Summer Time) is UTC+2, which is 2h ahead of UTC (Coordinated Universal Time).
