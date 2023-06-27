@@ -5,7 +5,7 @@
 
 Thanks to all the speakers and attendees. Hope to see you next year.
 
-Those interested to share their work and give an online seminar in 2024, are kindly asked to contact **Carla Braitenberg** (berg@units.it) or **Severine Rosat** (severine.rosat@unistra.fr). This invitation includes PhD and Master students, as well as PostDocs and senior scientists.
+Those interested to share their work and give an online seminar, are kindly asked to contact **Carla Braitenberg** (berg@units.it) or **Severine Rosat** (severine.rosat@unistra.fr). This invitation includes PhD and Master students, as well as PostDocs and senior scientists.
 
 ### Past 2023 seminars
 > 27 June 2023, 1 PM CEST: **Umberto Riccardi**, Dipartimento di Scienze della Terra, dell'Ambiente e delle Risorse (DiSTAR), Università "Federico II" di Napoli, Italy, _Catching the time-variable gravity at Mt. Somma-Vesuvius volcano by means of discrete and continuous relative gravity measurements_ [Download video of this seminar](https://seafile.unistra.fr/f/cd5f2adcc4e8499aafb1/)
