@@ -1,7 +1,9 @@
 ## Sub-Commission 3.1 Earth Tides and Geodynamics
 ### Online seminars
 
-2023 online seminars are over, but will start again in 2024 !
+2023 online seminars are over, but will start again in 2025 !
+
+In 2024, the 20th Geodynamics and Earth Tides Symposium will be held in Strasbourg (France) from 25th to 30th of August.
 
 Thanks to all the speakers and attendees. Hope to see you next year.
 
