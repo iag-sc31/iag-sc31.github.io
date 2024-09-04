@@ -1,11 +1,7 @@
 1957, 24-26 April, Uccle, **Belgium** (18 participants)
-
 1958, 21-26 July, Munich, **Germany** (54 participants)
-
 1959, 6-11 July, Trieste, **Italy** (56 participants)
-
 1961, 5-10 June, Brussels, **Belgium** (54 participants)
-
 1964, 1-6 June, Brussels, **Belgium** (59 participants)
 
 1969, 15-20 September, Strasbourg, **France** (62 participants)
