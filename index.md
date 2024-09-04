@@ -15,6 +15,12 @@ In 2024, the 20th Geodynamics and Earth Tides Symposium was held in Strasbourg (
 
 Thanks to all the speakers and attendees. The G-ETS2024 website is available [here](https://g-ets2024.sciencesconf.org/).
 
+During the 20th G-ETS, the Paul Melchior's medal was awarded to Duncan C. Agnew and Jacques Hinderer.
+
+The G-ETS2024 early-career scientist prize was awarded to Marvin Reich.
+
+Congratulations to them!
+
 ### Topics
 The Topics that are relevant to the Earth Tides and Geodynamics Commission take into account geodynamic phenomena on different temporal and spatial scales. These geodynamic phenomena can be observed by modern instrumentation and monitoring systems, both terrestrial and space-borne. The seminars will be open for a wide range of scientific problems in geodynamics research. Interactions of geophysical fluids with Earth tides phenomena and observations are a specific focus and includes:
 
