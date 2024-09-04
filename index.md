@@ -19,7 +19,7 @@ The list of all ETS and G-ETS symposia is [here](G-ETS.md).
 
 During the 20th G-ETS, the **Paul Melchior's medal** was awarded to **Duncan C. Agnew** and **Jacques Hinderer**. Previous awardees are listed [here](MelchiorPrize.md).
 
-The 2024 **G-ETS early-career scientist prize** was awarded to **Marvin Reich**. This was the first edition of this new prize. 
+The 2024 **G-ETS early-career scientist prize** was awarded to **Marvin Reich** (GFZ Potsdam, Germany). This was the first edition of this new prize. 
 
 Congratulations to them!
 
