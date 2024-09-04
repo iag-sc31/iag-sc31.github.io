@@ -9,15 +9,15 @@ Those interested to share their work and give an online seminar, are kindly aske
 
 ### [2022 seminars](2022_seminars.md)
 
-### Geodynamics and Earth Tides Symposia
+### Geodynamics and Earth Tides Symposium
 
 In 2024, the 20th Geodynamics and Earth Tides Symposium was held in Strasbourg (France) from 25th to 30th of August.
 
 Thanks to all the speakers and attendees. The G-ETS2024 website is available [here](https://g-ets2024.sciencesconf.org/).
 
-During the 20th G-ETS, the **Paul Melchior's medal** was awarded to Duncan C. Agnew and Jacques Hinderer.
+During the 20th G-ETS, the **Paul Melchior's medal** was awarded to Duncan C. Agnew and Jacques Hinderer. Previous awardees are listed [here]().
 
-The 2024 **G-ETS early-career scientist prize** was awarded to Marvin Reich.
+The 2024 **G-ETS early-career scientist prize** was awarded to Marvin Reich. This was the first edition of this new prize. 
 
 Congratulations to them!
 
