@@ -21,4 +21,4 @@ Since 2016, the ETS has become the Geodynamics and Earth Tides Symposium (G-ETS)
 
     2016, 5-9 June, Trieste, Italy (105 participants)
     2021, 23-26 June, Wuhan, China (online and onsite) (141 participants)
-    2024, 25-30 August, Strasbourg, France (86 participants)[G-ETS2024](https://g-ets2024.sciencesconf.org)
+    2024, 25-30 August, Strasbourg, France (86 participants)
