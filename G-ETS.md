@@ -3,11 +3,8 @@
 1959, 6-11 July, Trieste, **Italy** (56 participants)
 1961, 5-10 June, Brussels, **Belgium** (54 participants)
 1964, 1-6 June, Brussels, **Belgium** (59 participants)
-
 1969, 15-20 September, Strasbourg, **France** (62 participants)
-
 1973, 10-14 September, Sopron, **Hungary** (94 participants)
-
 1977, 19-24 September, Bonn, **Germany** (88 participants)
 
 1981, 17-22 August, NY, **USA** (145 participants)
