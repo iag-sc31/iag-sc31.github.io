@@ -1,4 +1,4 @@
-## SC3.1 Earth Tides and Geodynamics of the International Association of Geodesy
+## SC3.1 of the International Association of Geodesy
 
 [![iag](https://iag-aig.org/img/logo70.png)](http://iag-aig.org/)  
 
