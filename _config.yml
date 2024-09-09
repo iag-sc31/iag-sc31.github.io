@@ -1,3 +1,5 @@
+github:
+  is_project_page: false
 #remote_theme: pages-themes/architect@v0.2.0
 #remote_theme: pages-themes/dinky@v0.2.0
 #remote_theme: pages-themes/midnight@v0.2.0
@@ -8,6 +10,4 @@ plugins:
 title: Sub-Commission 3.1 Earth Tides and Geodynamics
 logo: IAG.png
 author: Severine Rosat
-description: Severine Rosat (University of Strasbourg and CNRS, France) & Xiaoming Cui (Chinese Academy of Sciences, China), chair & co-chair
-github:
-  is_project_page: false
+description: Séverine Rosat (University of Strasbourg and CNRS, France) & Xiaoming Cui (Chinese Academy of Sciences, China), chair & co-chair
