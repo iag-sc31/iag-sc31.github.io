@@ -6,6 +6,6 @@ plugins:
 - jekyll-remote-theme
 #theme: jekyll-theme-minimal
 title: Sub-Commission 3.1 Earth Tides and Geodynamics
-#logo: IAG.png
+logo: IAG.png
 author: Severine Rosat
 description: Severine Rosat (University of Strasbourg and CNRS, France) & Xiaoming Cui (Chinese Academy of Sciences, China), chair & co-chair
