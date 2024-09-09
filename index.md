@@ -18,9 +18,9 @@ Those interested to share their work and give an online seminar, are kindly aske
 
 The SC3.1 is responsible for the organization of the Geodynamics and Earth Tides Symposium which is held every 4 years. In 2024, the 20th Geodynamics and Earth Tides Symposium was held in Strasbourg (France) from 25th to 30th of August.
 
-Thanks to all the speakers and attendees. The G-ETS2024 website is available [here](https://g-ets2024.sciencesconf.org/).
+Thanks to all the speakers and attendees. [The G-ETS2024 website is available here](https://g-ets2024.sciencesconf.org/).
 
-The list of all ETS and G-ETS symposia is [here](G-ETS.md).
+[The list of all ETS and G-ETS symposia is here](G-ETS.md).
 
 During the 20th G-ETS, the **Paul Melchior's medal** was awarded to **Duncan C. Agnew** and **Jacques Hinderer**. Previous awardees are listed [here](MelchiorPrize.md).
 
@@ -29,7 +29,7 @@ The 2024 **G-ETS early-career scientist prize** was awarded to **Marvin Reich** 
 Congratulations to them!
 
 ### Topics of IAG SC3.1
-The Topics that are relevant to the Earth Tides and Geodynamics Commission take into account geodynamic phenomena on different temporal and spatial scales. These geodynamic phenomena can be observed by modern instrumentation and monitoring systems, both terrestrial and space-borne. The seminars will be open for a wide range of scientific problems in geodynamics research. Interactions of geophysical fluids with Earth tides phenomena and observations are a specific focus and includes:
+The topics that are relevant to the Earth Tides and Geodynamics Commission take into account geodynamic phenomena on different temporal and spatial scales. These geodynamic phenomena can be observed by modern instrumentation and monitoring systems, both terrestrial and space-borne. The seminars will be open for a wide range of scientific problems in geodynamics research. Interactions of geophysical fluids with Earth tides phenomena and observations are a specific focus and includes:
 
 - Tidal and non-tidal loading in space geodetic and subsurface observations
 - Permanent and dynamic effects of Earth tides on the geodetic reference system
