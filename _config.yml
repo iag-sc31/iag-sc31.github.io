@@ -1,5 +1,3 @@
-github:
-  is_project_page: false
 #remote_theme: pages-themes/architect@v0.2.0
 remote_theme: pages-themes/dinky@v0.2.0
 #remote_theme: pages-themes/midnight@v0.2.0
@@ -7,6 +5,8 @@ remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme
 #theme: jekyll-theme-minimal
+github:
+  is_project_page: false
 title: Sub-Commission 3.1 Earth Tides and Geodynamics
 #logo: IAG.png
 author: Severine Rosat
