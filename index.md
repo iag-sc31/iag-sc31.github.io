@@ -1,6 +1,6 @@
 ## Sub-Commission 3.1 Earth Tides and Geodynamics
 
-[![iag](https://iag-aig.org/img/logo70.png)(http://iag-aig.org/)]  
+[![iag](https://iag-aig.org/img/logo70.png)](http://iag-aig.org/)  
 
 ### Online seminars
 
