@@ -3,7 +3,7 @@ remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme
 #theme: jekyll-theme-minimal
-title: Sub-Commission 3.1 of the International Association of Geodesy
-logo: IAG.png
+title: International Association of Geodesy
+#logo: IAG.png
 author: Severine Rosat
 description: Severine Rosat (University of Strasbourg and CNRS, France) & Xiaoming Cui (Chinese Academy of Sciences, China), chair & co-chair
