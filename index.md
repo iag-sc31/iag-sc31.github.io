@@ -13,8 +13,7 @@ Those interested to share their work and give an online seminar, are kindly aske
 ### [List of 2022 online seminars](2022_seminars.md)
 
 
-### Geodynamics and Earth Tides Symposium  
-[![G-ETS](logo-GETS.png)](https://g-ets2024.sciencesconf.org/)
+### Geodynamics and Earth Tides Symposium [![G-ETS](logo-GETS.png)](https://g-ets2024.sciencesconf.org/)
 The SC3.1 is responsible for the organization of the Geodynamics and Earth Tides Symposium which is held every 4 years. In 2024, the 20th Geodynamics and Earth Tides Symposium was held in Strasbourg (France) from 25th to 30th of August.
 
 Thanks to all the speakers and attendees. The G-ETS2024 website is available [here](https://g-ets2024.sciencesconf.org/).
