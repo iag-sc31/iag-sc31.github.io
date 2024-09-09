@@ -8,9 +8,9 @@ SC3.1 online seminars will start again in 2025 !
 
 Those interested to share their work and give an online seminar, are kindly asked to contact **Severine Rosat** (severine.rosat@unistra.fr) or **Xiaoming Cui** (cxm@apm.ac.cn). This invitation includes PhD and Master students, as well as PostDocs and senior scientists.
 
-## [List of 2023 online seminars](2023_seminars.md)
+#### [List of 2023 online seminars](2023_seminars.md)
 
-## [List of 2022 online seminars](2022_seminars.md)
+#### [List of 2022 online seminars](2022_seminars.md)
 
 
 ### Geodynamics and Earth Tides Symposium 
