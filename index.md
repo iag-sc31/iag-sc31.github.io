@@ -1,4 +1,7 @@
 ## Sub-Commission 3.1 Earth Tides and Geodynamics
+
+[![iag](https://iag-aig.org/img/logo70.png)(http://iag-aig.org/)]  
+
 ### Online seminars
 
 SC3.1 online seminars will start again in 2025 !
