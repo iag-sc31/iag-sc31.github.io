@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "IAG SC3.1"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
-author= Séverine Rosat (France) & Xiaoming Cui (China), chair & co-chair
+author= "Séverine Rosat (France) & Xiaoming Cui (China), chair & co-chair"
 
 [services]
   [services.disqus]
