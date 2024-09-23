@@ -5,18 +5,6 @@ title = "IAG SC3.1"
 theme = "minimal"
 author= "Séverine Rosat (France) & Xiaoming Cui (China), chair & co-chair"
 
-[services]
-  [services.disqus]
-    shortname = ''
-  [services.instagram]
-    accessToken = ''
-    disableInlineCSS = false
-  [services.rss]
-    limit = -1
-  [services.twitter]
-    disableInlineCSS = false
-
-
 [params]
     author = "Severine Rosat"
     description = "Sub-Commission 3.1 webpages"
@@ -55,21 +43,16 @@ author= "Séverine Rosat (France) & Xiaoming Cui (China), chair & co-chair"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/iag-sc31/"
     name = "fab fa-github"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
-    name = "fab fa-twitter"
-    weight = 3
-
-[[menu.icon]]
     url = "https://www.linkedin.com/in/username/"
     name = "fab fa-linkedin"
-    weight = 4
+    weight = 3
 
 [[menu.icon]]
     url = "https://www.stackoverflow.com/username/"
     name = "fab fa-stack-overflow"
-    weight = 5
+    weight = 4
