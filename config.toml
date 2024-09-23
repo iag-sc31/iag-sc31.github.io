@@ -1,5 +1,6 @@
 baseURL = "http://iag-sc31.github.io/"
 languageCode = "en-us"
+githubUsername = "iag-sc31"
 title = "IAG SC3.1"
 theme = "minimal"
 author= "Séverine Rosat (France) & Xiaoming Cui (China), chair & co-chair"
