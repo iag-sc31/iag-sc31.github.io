@@ -42,8 +42,11 @@ body {
     display: flex;
     flex-direction: row; 
     gap: 10%;
-	text-align: center;
-	line-height: 1.5;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 80%;
+    margin: auto;
 }
 .navigation-index a {
     text-decoration: none;
