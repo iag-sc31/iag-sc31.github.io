@@ -53,8 +53,8 @@ nav {
     top: 0%;
     transform: translateY(0%);
     margin-left: 1%;
-    border-right: 1.5px solid rgb(0, 0, 255);
-	text-align: left;
+    border-bottom: 1.5px solid rgb(0, 0, 255);
+	text-align: center;
 	padding: 1%
 }
 a {
