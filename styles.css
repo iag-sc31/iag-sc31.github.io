@@ -47,6 +47,7 @@ body {
     font-weight: 550;
 }
 nav {
+    flex: 1 1 auto;
     position: flex;
     margin: 0% 0% 0% 0%;
     top: 0%;
