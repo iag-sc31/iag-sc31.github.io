@@ -44,7 +44,6 @@ body {
     gap: 10%;
     align-items: center;
     justify-content: center;
-    margin: auto;
 }
 .navigation-index a {
     text-decoration: none;
@@ -63,7 +62,7 @@ nav {
     transform: translateY(0%);
     margin-left: 1%;
     border-bottom: 1.5px solid rgb(0, 0, 255);
-	text-align: center;
+    text-align: center;
 	padding: 1%
 }
 a {
