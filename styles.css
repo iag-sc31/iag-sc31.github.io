@@ -107,6 +107,12 @@ a {
 	line-height: 1.5;
 }
 
+/* Meeting and publication ----------------------------------------*/
+.terms {
+	text-align: justify;
+	text-indent: -1vw;
+	line-height: 1.3;
+}
 
 
 /* About -----------------------------------------------------------*/
