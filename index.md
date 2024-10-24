@@ -1,6 +1,6 @@
 ## SC3.1 of the International Association of Geodesy
 
-[![iag](https://iag-aig.org/img/logo70.png)](http://iag-aig.org/)  
+[![iag](IAG.png)](http://iag-aig.org/)  
 
 ### Online seminars
 
