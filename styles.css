@@ -1,11 +1,12 @@
 /* Main body and main features -------------------------------------*/
 body {
     background-color: rgb(255, 255, 255, 0.8);
-    font-family: 'Manrope', sans-serif;
+    font-family: "Manrope";
+    font-style: sans-serif;
     font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
-	font-size: 1vw;
+    font-size: 1vw;
     margin: 0;
     padding: 0%;
     justify-content: center;
