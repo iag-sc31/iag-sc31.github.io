@@ -33,7 +33,7 @@ body {
 /* Browser menu ----------------------------------------------------*/
 .navigation-index {
     display: flex;
-    flex-direction: column;
+/*    flex-direction: column; */
     gap: 10%;
 	text-align: left;
 	line-height: 1.5;
