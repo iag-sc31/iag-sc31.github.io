@@ -33,9 +33,9 @@ body {
 /* Browser menu ----------------------------------------------------*/
 .navigation-index {
     display: flex;
-/*    flex-direction: column; */
+    flex-direction: row; 
     gap: 10%;
-	text-align: left;
+	text-align: center;
 	line-height: 1.5;
 }
 .navigation-index a {
