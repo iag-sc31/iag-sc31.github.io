@@ -1,11 +1,5 @@
 /* Main body and main features -------------------------------------*/
-* { 
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 body {
-    display: grid;
     background-color: rgb(255, 255, 255, 0.8);
     font-family: Times New Roman;
     font-style: sans-serif;
@@ -17,12 +11,13 @@ body {
     padding: 0%;
     justify-content: center;
     align-items: center;
-    place-items: center;
     min-height: 100vh;
     max-width:80%;
 }
 .grid-item {
   background-color: rgba(255, 255, 255, 0.8);
+  align-items: center;
+  justify-content: center;
 }
 .headband {
 	grid-row: 1;
