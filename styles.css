@@ -17,7 +17,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    max-width:90%;
+    max-width:80%;
 }
 .grid-item {
   background-color: rgba(255, 255, 255, 0.8);
@@ -72,7 +72,7 @@ a {
 
 /* Image, figure and photo -----------------------------------------*/
 .headband-image {
-    width: 80%;
+    width: 100%;
 }
 .logo {
 	border-radius: 10%;
