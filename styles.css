@@ -46,11 +46,9 @@ body {
     display: flex;
     flex-direction: row; 
     gap: 10%;
-    border-left: 1px solid black;
-    border-right: 1px solid black;
 }
 .navigation-index a {
-    text-decoration: none;
+    text-decoration: overline underline;
 /*    color: rgb(50, 50, 200); */
     color: black;
 }
