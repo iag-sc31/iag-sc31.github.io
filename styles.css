@@ -41,7 +41,7 @@ body {
 .navigation-index {
     display: flex;
     flex-direction: row; 
-    gap: 10%;
+    gap: auto;
     align-items: center;
     justify-content: center;
 }
