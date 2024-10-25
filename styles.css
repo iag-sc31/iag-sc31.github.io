@@ -32,7 +32,7 @@ body {
 }
 .links {
 	text-align: left;
-	align-items: start;
+	vertical-align: top;
 }
 
 /* Browser menu ----------------------------------------------------*/
