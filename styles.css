@@ -44,6 +44,8 @@ body {
     gap: auto;
     align-items: center;
     justify-content: center;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
 }
 .navigation-index a {
     text-decoration: none;
@@ -56,15 +58,13 @@ body {
 }
 nav {
     flex: auto;
-    position: flex;
+    position: 1 1 flex;
 /*    background: LightCyan; */
     margin: 0% 0% 0% 0%;
     top: 0%;
     transform: translateY(0%);
     margin-left: 1%;
     border-bottom: 1.5px solid black;
-    border-left: 1px solid black;
-    border-right: 1px solid black;
     text-align: center;
 	padding: 1%
 }
