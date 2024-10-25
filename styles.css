@@ -89,7 +89,7 @@ a {
 /* Index -----------------------------------------------------------*/
 .grid-index {
   display: grid;
-  grid-template-columns: 10vw 75vw;
+  grid-template-columns: 5% 75%;
   gap: 3%;
   background-color: rgba(255, 255, 255, 0.8);
   padding: 3%;
@@ -100,7 +100,7 @@ a {
 /* Main ------------------------------------------------------------*/
 .grid-main {
   display: grid;
-  grid-template-columns: 10vw 75vw;
+  grid-template-columns: 5% 75%;
   gap: 3%;
   background-color: rgba(255, 255, 255, 0.8);
   padding: 3%;
