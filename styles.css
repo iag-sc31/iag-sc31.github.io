@@ -36,7 +36,6 @@ body {
 }
 .navigation-index a {
     text-decoration: overline underline;
-/*    color: rgb(50, 50, 200); */
     color: black;
 }
 .navigation-index a:hover {
