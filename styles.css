@@ -37,7 +37,6 @@ body {
 }
 .navigation-index a {
     text-decoration: overline underline;
-    padding-bottom: 3px;
 /*    color: rgb(50, 50, 200); */
     color: black;
 }
@@ -106,6 +105,7 @@ a {
   gap: 3%;
   background-color: rgba(255, 255, 255, 0.8);
   padding: 3%;
+  align-items: center;
 }
 .main {
 	text-align: justify;
