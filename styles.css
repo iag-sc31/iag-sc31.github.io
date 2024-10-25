@@ -31,6 +31,8 @@ body {
 	padding: 3%;
 }
 .links {
+	display: flex;
+        flex-direction: column; 
 	text-align: left;
 	align-items: start;
 }
@@ -45,7 +47,8 @@ body {
 }
 .navigation-index a {
     text-decoration: none;
-    color: rgb(50, 50, 200);
+/*    color: rgb(50, 50, 200); */
+    color: black;
 }
 .navigation-index a:hover {
     color: rgb(0, 0, 255);
