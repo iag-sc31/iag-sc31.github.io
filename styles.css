@@ -42,9 +42,7 @@ body {
 .navigation-index {
     display: flex;
     flex-direction: row; 
-    gap: auto;
-    align-items: center;
-    justify-content: center;
+    gap: 10%;
     border-left: 1px solid black;
     border-right: 1px solid black;
 }
