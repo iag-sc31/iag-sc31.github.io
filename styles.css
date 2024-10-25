@@ -55,7 +55,7 @@ body {
     font-weight: 550;
 }
 nav {
-    flex: 1 1 auto;
+    flex: auto;
     position: flex;
 /*    background: LightCyan; */
     margin: 0% 0% 0% 0%;
@@ -63,6 +63,8 @@ nav {
     transform: translateY(0%);
     margin-left: 1%;
     border-bottom: 1.5px solid rgb(0, 0, 0);
+    border-left: 1px solid black;
+    border-right: 1px solid black;
     text-align: center;
 	padding: 1%
 }
