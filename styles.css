@@ -5,6 +5,7 @@
     box-sizing: border-box;
 }
 body {
+    display: grid;
     background-color: rgb(255, 255, 255, 0.8);
     font-family: Times New Roman;
     font-style: sans-serif;
