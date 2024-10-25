@@ -32,8 +32,10 @@ body {
 }
 .links {
 	display: flex;
+        flex-direction: column;
+        gap: 10%;
 	text-align: left;
-	align-items: start;
+	line-height: 1.5;
 }
 
 /* Browser menu ----------------------------------------------------*/
