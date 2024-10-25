@@ -60,12 +60,10 @@ a {
 }
 /* Links ----------------------------------------------------------*/
 .links {
-	display: flex;
-        flex-direction: column;
+	display: grid;
         gap: 10%;
 	text-align: left;
 	line-height: 1.5;
-        position: flex;
         margin: 0% 0% 0% 0%;
         top: 0%;
 }
